@@ -1,0 +1,17 @@
+{
+  "title": "Hand Anchor",
+  "description": "Experience a calming guided breathing session with a responsive sphere that helps users focus and relax, enhancing mindfulness and well-being.",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "openGraph": {
+    "image": "/.figma/make/social-image.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
